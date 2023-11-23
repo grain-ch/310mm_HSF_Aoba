@@ -1,0 +1,13 @@
+<JGM014_203mm50_Type_C_RF.model>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.217521 0.000000 -0.372750	</min>
+		<max>	0.217521 0.208080 0.616940	</max>
+	</visibilityBox>
+	<extent>	4.000000	</extent>
+	<parent>	PnFMods/310mm_HSF_Aoba_Mod/JSC520_Yoshino/gun/lods/JGM165_305mm50_lod1	</parent>
+	<castsShadow>	true	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/310mm_HSF_Aoba_Mod/JSC520_Yoshino/gun/JGM165_305mm50	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JGM014_203mm50_Type_C_RF.model>
