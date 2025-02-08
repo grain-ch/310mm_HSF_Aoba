@@ -10,6 +10,9 @@ Applying this mod will change the appearance of the outfitting, but will not cha
 ==============================
 Change log
 
+2024/02/08
+update for WoWS 14.1
+
 2022/05/19
 removed image.jpg
 
