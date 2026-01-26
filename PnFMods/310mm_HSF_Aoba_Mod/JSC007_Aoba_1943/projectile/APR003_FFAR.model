@@ -2,5 +2,6 @@
 	<visual>	PnFMods/310mm_HSF_Aoba_Mod/JSC007_Aoba_1943/projectile/APR003_FFAR.visual	</visual>
 	<animations />
 	<dyes />
+	<skeletonExtenders />
 	<metaData>	Wargaming.net	</metaData>
 </APR003_FFAR.model>

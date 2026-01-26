@@ -17,6 +17,33 @@
 					<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
 				</transform>
 				<node>
+					<identifier>	HP_JGA_16	</identifier>
+					<transform>
+						<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+						<row3>	-0.1153 0.2445 -4.3035 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_JGA_17	</identifier>
+					<transform>
+						<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+						<row3>	0.1153 0.2445 -4.3035 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_Ship_death_3	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.0000 0.0000 -4.2038 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
 					<identifier>	Stern_crack_MidBack	</identifier>
 					<transform>
 						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
